@@ -1,7 +1,7 @@
 # My-website
 
 
-##This website is another form of my resume.
+## This website is another form of my resume.
 
 ### For this webstie:
 I’ve customized my website’s look and feel by using a consistent color scheme with a primary green (#4CAF50) and a dark gray (#333). The green is used for interactive elements like buttons and links, while the gray is mostly for text and headings, giving the site a clean, cohesive look.
